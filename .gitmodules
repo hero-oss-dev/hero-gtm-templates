@@ -1,0 +1,6 @@
+[submodule "hero-messenger-gtm-template"]
+	path = hero-messenger-gtm-template
+	url = https://github.com/usehero/hero-messenger-gtm-template
+[submodule "hero-ecommerce-tracking-gtm-template"]
+	path = hero-ecommerce-tracking-gtm-template
+	url = https://github.com/usehero/hero-ecommerce-tracking-gtm-template
